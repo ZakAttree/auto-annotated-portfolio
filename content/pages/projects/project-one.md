@@ -4,7 +4,7 @@ title: Formula 1 Tyre
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: 'This projects is based of a formula 1 tyre. It has the '
+description: 'This projects is based of a formula 1 tyre. '
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
