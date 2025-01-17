@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     title: mY NAME IS ZAK aTTREE AND i am an aspiring 3D modeller
     subtitle: >-
