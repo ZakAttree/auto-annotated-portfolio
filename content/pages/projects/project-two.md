@@ -4,7 +4,9 @@ title: 3D Modelled Roulette Table
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: 'This is one of my favourite projects. '
+description: >-
+  This is one of my favourite projects. It is my creation of a 32 numbered
+  roulette table.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
