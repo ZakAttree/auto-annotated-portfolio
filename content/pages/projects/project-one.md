@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Formula 1 Tyre
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: ''
 description: 'This projects is based of a formula 1 tyre. '
 featuredImage:
   type: ImageBlock
