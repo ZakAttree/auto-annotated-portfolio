@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: mY NAME IS ZAK aTTREE AND i am an aspiring 3D modeller
+    title: My name is Zak Attree and I am an aspiring 3D modeller
     subtitle: >-
       This is my portfolio where I will showcase my favourite and creative
       projects. I will dive into the development process of some of my most
