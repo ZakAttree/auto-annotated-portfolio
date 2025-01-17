@@ -16,8 +16,8 @@ sections:
     title: mY NAME IS ZAK aTTREE AND i am an aspiring 3D modeller
     subtitle: >-
       This is my portfolio where I will showcase my favourite and creative
-      projects. I will dive into the development process of some of my favourite
-      projects.
+      projects. I will dive into the development process of some of my most
+      interesting projects.
     styles:
       self:
         height: auto
