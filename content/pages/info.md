@@ -239,7 +239,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      <z.attree@outlook.com>
+      z.attree\@outlook.com
   - type: DividerSection
     styles:
       self:
