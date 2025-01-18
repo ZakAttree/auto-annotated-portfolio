@@ -17,7 +17,7 @@ sections:
     subtitle: >-
       This is my portfolio where I will showcase my favourite and creative
       projects. I will dive into the development process of some of my most
-      interesting projects.
+      interesting creations.
     styles:
       self:
         height: auto
