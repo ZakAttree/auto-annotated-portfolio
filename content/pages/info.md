@@ -238,8 +238,7 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      [z.attree@outlook.com](https://outlook.live.com/mail/0/)
+    text: ''
   - type: DividerSection
     styles:
       self:
