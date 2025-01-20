@@ -180,7 +180,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Item Title
+        title: Blender
         subtitle: ''
         text: |
           Novice < 1 year experience
