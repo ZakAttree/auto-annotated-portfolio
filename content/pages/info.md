@@ -99,7 +99,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: Instagram
             url: 'https://www.instagram.com/zaksmodels/'
         styles:
           self:
