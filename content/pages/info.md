@@ -153,7 +153,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: bLENDER
+        label: Blender
       - type: Label
         label: React
       - type: Label
