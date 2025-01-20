@@ -164,8 +164,6 @@ sections:
         label: Netlify
       - type: Label
         label: Unity 3D
-      - type: Label
-        label: C#
   - type: DividerSection
     styles:
       self:
