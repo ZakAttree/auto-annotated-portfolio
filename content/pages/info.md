@@ -161,7 +161,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
+            label: Blender
             url: ''
         styles:
           self:
