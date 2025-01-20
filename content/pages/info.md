@@ -100,7 +100,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://www.instagram.com/zaksmodels/'
         styles:
           self:
             textAlign: left
