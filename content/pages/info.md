@@ -177,7 +177,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        subtitle: D
+        subtitle: novice < 1 year experience
         actions:
           - type: Link
             label: Discord
