@@ -277,15 +277,13 @@ sections:
         text: |+
           **2018-2023**
 
-          *   ba computer sciense at a semi fancy school
+          *   Cleeve Park School
 
-          **2014**
+          **2023 - Present (2025)**
 
-          *   react certificate somewhere
+          *   Games Development / Creative Media Student at North Kent College
 
-          **2011**
 
-          *   my highschool
 
         styles:
           self:
