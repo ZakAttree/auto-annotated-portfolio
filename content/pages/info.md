@@ -134,7 +134,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/Instagram-White-PNG-File.png
         altText: logo one
         caption: Caption of the image
         elementId: ''
