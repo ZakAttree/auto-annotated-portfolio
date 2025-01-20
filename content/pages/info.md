@@ -162,7 +162,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/ZakAttree'
+            url: ''
         styles:
           self:
             textAlign: left
