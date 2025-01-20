@@ -168,7 +168,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Unity 2D/3D
+        title: Unity 2D
         subtitle: ''
         text: |
           Intermediate < 2 years experience
