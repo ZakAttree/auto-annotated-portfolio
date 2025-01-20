@@ -182,6 +182,7 @@ sections:
           - type: Link
             label: Discord
             url: 'https://discord.com/'
+            altText: rf
         styles:
           self:
             textAlign: left
