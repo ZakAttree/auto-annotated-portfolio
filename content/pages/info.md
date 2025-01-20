@@ -178,6 +178,8 @@ sections:
           self:
             textAlign: left
         subtitle: ''
+        text: |
+          f
       - type: FeaturedItem
         actions:
           - type: Link
