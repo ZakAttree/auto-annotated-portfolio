@@ -79,6 +79,7 @@ sections:
           - type: Link
             label: Twitter
             url: 'https://x.com/ZaksModels'
+            iconPosition: left
         styles:
           self:
             textAlign: left
