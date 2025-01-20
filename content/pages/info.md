@@ -146,10 +146,10 @@ sections:
       - type: FeaturedItem
         title: Microsoft Office
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          Experienced < 6 years experience 
+
+          Excel Novice < 2 months experience 
         actions: []
         elementId: ''
         styles:
