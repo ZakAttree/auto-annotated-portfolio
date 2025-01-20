@@ -170,10 +170,8 @@ sections:
       - type: FeaturedItem
         title: Unity 2D/3D
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          Intermediate < 2 years experience
         actions: []
         elementId: ''
         styles:
