@@ -102,6 +102,14 @@ sections:
             label: Instagram
             url: 'https://www.instagram.com/zaksmodels/'
             iconPosition: right
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left
