@@ -155,7 +155,7 @@ sections:
       - type: Label
         label: Blender
       - type: Label
-        label: React
+        label: Figma
       - type: Label
         label: Microsoft Office
       - type: Label
