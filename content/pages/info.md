@@ -165,7 +165,7 @@ sections:
       - type: Label
         label: Unity 3D
       - type: Label
-        label: Label title
+        label: Novice
         url: ''
   - type: DividerSection
     styles:
