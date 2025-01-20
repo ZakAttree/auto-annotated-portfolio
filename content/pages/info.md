@@ -164,9 +164,6 @@ sections:
         label: Netlify
       - type: Label
         label: Unity 3D
-      - type: Label
-        label: Novice
-        url: ''
   - type: DividerSection
     title: Divider
     elementId: ''
