@@ -165,7 +165,7 @@ sections:
       - type: Label
         label: Unity 3D
       - type: Label
-        label: C++
+        label: C#
       - type: Label
         label: Swift
   - type: DividerSection
