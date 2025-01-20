@@ -155,6 +155,70 @@ sections:
         label: Netlify
       - type: Label
         label: Unity 3D
+  - type: FeaturedItemsSection
+    subtitle: 'You can find me here:'
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: GitHub
+            url: 'https://github.com/ZakAttree'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Twitter
+            url: 'https://x.com/ZaksModels'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: LinkedIn
+            url: 'https://www.linkedin.com/in/zak-attree-588b34315/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        subtitle: ''
+        actions:
+          - type: Link
+            label: Discord
+            url: 'https://discord.com/'
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 3
+    spacingX: 120
+    spacingY: 0
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: DividerSection
     styles:
       self:
