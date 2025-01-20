@@ -103,7 +103,7 @@ sections:
         styles:
           self:
             textAlign: left
-        subtitle: w
+        subtitle: ''
     columns: 3
     spacingX: 120
     spacingY: 0
