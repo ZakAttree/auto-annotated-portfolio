@@ -163,7 +163,7 @@ sections:
           - type: Link
             label: Blender
             url: ''
-            altText: d
+            altText: ''
         styles:
           self:
             textAlign: left
