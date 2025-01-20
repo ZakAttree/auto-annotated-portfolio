@@ -70,7 +70,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/ZakAttree'
         styles:
           self:
             textAlign: left
