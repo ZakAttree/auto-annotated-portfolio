@@ -140,22 +140,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: 'Blender '
-      - type: Label
-        label: Figma
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Unity 2D
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Unity 3D
   - type: FeaturedItemsSection
     subtitle: 'You can find me here:'
     items:
