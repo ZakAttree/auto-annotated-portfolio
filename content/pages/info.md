@@ -177,7 +177,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        subtitle: f
+        subtitle: ''
         actions:
           - type: Link
             label: Discord
