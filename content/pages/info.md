@@ -144,7 +144,7 @@ sections:
     title: Value propositions
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: Microsoft Office
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
