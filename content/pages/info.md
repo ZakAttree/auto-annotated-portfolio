@@ -153,8 +153,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: >-
-          Blender                                                                   
+        label: 'Blender '
       - type: Label
         label: Figma
       - type: Label
