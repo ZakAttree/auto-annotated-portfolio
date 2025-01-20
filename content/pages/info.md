@@ -99,10 +99,6 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/zaksmodels/'
-            iconPosition: right
-          - type: Link
             label: Learn more
             altText: ''
             url: /
@@ -110,6 +106,10 @@ sections:
             icon: arrowRight
             iconPosition: right
             elementId: ''
+          - type: Link
+            label: Instagram
+            url: 'https://www.instagram.com/zaksmodels/'
+            iconPosition: right
         styles:
           self:
             textAlign: left
