@@ -168,7 +168,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: Unity 2D/3D
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
