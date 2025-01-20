@@ -158,10 +158,8 @@ sections:
       - type: FeaturedItem
         title: Unity 3D
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          Novice < 6 Months Experience
         actions: []
         elementId: ''
         styles:
