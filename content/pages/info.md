@@ -101,7 +101,7 @@ sections:
           - type: Link
             label: Instagram
             url: 'https://www.instagram.com/zaksmodels/'
-            iconPosition: left
+            iconPosition: right
         styles:
           self:
             textAlign: left
