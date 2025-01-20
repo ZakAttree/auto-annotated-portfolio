@@ -159,7 +159,7 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Next.js
+        label: Unity 2D
       - type: Label
         label: Netlify
       - type: Label
