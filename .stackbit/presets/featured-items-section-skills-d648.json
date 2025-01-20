@@ -1,0 +1,167 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "skills",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "skills 2"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": null,
+                "subtitle": "You can find me here:",
+                "items": [
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": null,
+                        "subtitle": null,
+                        "text": null,
+                        "featuredImage": null,
+                        "actions": [
+                            {
+                                "$$type": "Link",
+                                "label": "GitHub",
+                                "altText": null,
+                                "url": "https://github.com/ZakAttree",
+                                "showIcon": null,
+                                "icon": null,
+                                "iconPosition": null,
+                                "elementId": null
+                            }
+                        ],
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": null,
+                        "subtitle": null,
+                        "text": null,
+                        "featuredImage": null,
+                        "actions": [
+                            {
+                                "$$type": "Link",
+                                "label": "Twitter",
+                                "altText": null,
+                                "url": "https://x.com/ZaksModels",
+                                "showIcon": null,
+                                "icon": null,
+                                "iconPosition": null,
+                                "elementId": null
+                            }
+                        ],
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": null,
+                        "subtitle": null,
+                        "text": null,
+                        "featuredImage": null,
+                        "actions": [
+                            {
+                                "$$type": "Link",
+                                "label": "LinkedIn",
+                                "altText": null,
+                                "url": "https://www.linkedin.com/in/zak-attree-588b34315/",
+                                "showIcon": null,
+                                "icon": null,
+                                "iconPosition": null,
+                                "elementId": null
+                            }
+                        ],
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": null,
+                        "subtitle": null,
+                        "text": null,
+                        "featuredImage": null,
+                        "actions": [],
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": null,
+                        "subtitle": "",
+                        "text": null,
+                        "featuredImage": null,
+                        "actions": [
+                            {
+                                "$$type": "Link",
+                                "label": "Discord",
+                                "altText": null,
+                                "url": "https://discord.com/",
+                                "showIcon": null,
+                                "icon": null,
+                                "iconPosition": null,
+                                "elementId": null
+                            }
+                        ],
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    }
+                ],
+                "actions": [],
+                "colors": "colors-f",
+                "columns": 3,
+                "spacingX": 120,
+                "spacingY": 0,
+                "elementId": null,
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "padding": [
+                            "pt-8",
+                            "pb-8",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "justifyContent": "center",
+                        "borderRadius": "none",
+                        "borderWidth": 0,
+                        "borderStyle": "none",
+                        "borderColor": "border-dark"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-items-section-skills-d648.png"
+        }
+    ]
+}
