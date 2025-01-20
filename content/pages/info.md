@@ -166,8 +166,6 @@ sections:
         label: Unity 3D
       - type: Label
         label: C#
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
