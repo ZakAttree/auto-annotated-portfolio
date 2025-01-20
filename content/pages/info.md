@@ -162,8 +162,7 @@ sections:
           self:
             textAlign: left
         subtitle: ''
-        text: |
-          f
+        text: ''
       - type: FeaturedItem
         actions:
           - type: Link
