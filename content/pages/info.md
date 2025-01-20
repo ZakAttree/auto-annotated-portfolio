@@ -232,7 +232,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: >+
+        text: >
           **Current**
 
 
@@ -246,14 +246,11 @@ sections:
           **02/2023 - 10/ 2023**
 
 
-          *   Poundstrecher - Sales assistant
+          *   Poundstrecher - Sales Assistant
 
 
           Developed my communication and time management skills while increasing
           customer retention through effective customer service.
-
-
-
         styles:
           self:
             textAlign: left
