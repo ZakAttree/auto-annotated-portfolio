@@ -232,26 +232,28 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: >+
           **Current**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   Danson Boathouse - Kitchen Porter
 
-          * fullstack at this startup
 
-          **2015**
+          Developed my communication, teamwork, and problem solving skills while
+          boosting workflow efficiency by 10%.
 
-          * senior front-end at this place
 
-          **2013**
+          **02/2023 - 10/ 2023**
 
-          * intern developer at a big company
 
-          **2011**
+          *   Poundstrecher - Sales assistant
 
-          * flipping burgers
+
+          Developed my communication and time management skills while increasing
+          customer retention through effective customer service.
+
+
+
         styles:
           self:
             textAlign: left
