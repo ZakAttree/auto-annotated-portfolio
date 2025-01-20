@@ -168,7 +168,7 @@ sections:
         styles:
           self:
             textAlign: left
-        subtitle: f
+        subtitle: ''
       - type: FeaturedItem
         actions:
           - type: Link
