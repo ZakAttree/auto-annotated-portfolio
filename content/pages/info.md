@@ -130,7 +130,15 @@ sections:
       subtitle:
         textAlign: left
     subtitle: 'You can find me here:'
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: '/https://www.linkedin.com/in/zak-attree-588b34315/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
   - type: DividerSection
     styles:
       self:
